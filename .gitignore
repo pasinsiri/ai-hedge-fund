@@ -41,6 +41,8 @@ Thumbs.db
 # credentials
 keys
 
+# agent results
+
 # other files
 scripts.sh
 resources.txt
